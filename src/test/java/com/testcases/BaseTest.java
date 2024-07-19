@@ -22,5 +22,6 @@ public class BaseTest {
 	protected void tearDown()
 	{
 		Driver.quitDriver();
+		System.out.println("Practice");
 	}
 }
