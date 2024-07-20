@@ -23,5 +23,6 @@ public class BaseTest {
 	{
 		Driver.quitDriver();
 		System.out.println("Practice");
+		System.out.println("Learning AUtomation");
 	}
 }
